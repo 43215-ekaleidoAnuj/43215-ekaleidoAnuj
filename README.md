@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @43215-ekaleidoAnuj
-- 👀 I’m interested in Fronrend Development and Graphic Designing 
+- 👀 I’m interested in Frontend Web Development and Graphic Designing 
 - 🌱 I’m currently learning ReactJs and Python 
 - 💞️ I’m looking to collaborate if your projects exites me 
 - 📫 You can react me @ anuj.kumar@ekaleido.co
